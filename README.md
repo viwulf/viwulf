@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning git
 - 💞️ I’m looking to collaborate on multimedia art de
 - 📫 How to reach me send email ;)
+ Argentina Buenos Aires
