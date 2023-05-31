@@ -1,0 +1,12 @@
+function setup() {
+  createCanvas(400, 400);
+}
+//primer intento
+
+function draw() {
+  background(150)
+  ellipse(50, 50, 50, 50);
+  noStroke();
+  fill(0);
+  rect(20, 360, 360);
+}
